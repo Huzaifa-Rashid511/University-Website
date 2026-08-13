@@ -4,7 +4,7 @@ A modern and responsive university website built using HTML5, CSS3, and JavaScri
 
 ## 🌐 Live Demo
 
-Coming soon...
+[🌐 View Live Demo](https://huzaifa-rashid511.github.io/University-Website/)
 
 ## 📌 About The Project
 
